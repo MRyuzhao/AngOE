@@ -1,0 +1,12 @@
+C:\D\ExerciseDemo\AngOE\AngOE\AngOE.Common\bin\Debug\AngOE.Common.dll
+C:\D\ExerciseDemo\AngOE\AngOE\AngOE.Common\bin\Debug\AngOE.Common.pdb
+C:\D\ExerciseDemo\AngOE\AngOE\AngOE.Common\bin\Debug\Castle.Core.dll
+C:\D\ExerciseDemo\AngOE\AngOE\AngOE.Common\bin\Debug\Castle.Windsor.dll
+C:\D\ExerciseDemo\AngOE\AngOE\AngOE.Common\bin\Debug\DevOne.Security.Cryptography.BCrypt.dll
+C:\D\ExerciseDemo\AngOE\AngOE\AngOE.Common\bin\Debug\Castle.Core.xml
+C:\D\ExerciseDemo\AngOE\AngOE\AngOE.Common\bin\Debug\Castle.Windsor.xml
+C:\D\ExerciseDemo\AngOE\AngOE\AngOE.Common\obj\Debug\AngOE.Common.dll
+C:\D\ExerciseDemo\AngOE\AngOE\AngOE.Common\obj\Debug\AngOE.Common.pdb
+C:\D\ExerciseDemo\AngOE\AngOE\AngOE.Common\bin\Debug\log4net.dll
+C:\D\ExerciseDemo\AngOE\AngOE\AngOE.Common\bin\Debug\log4net.xml
+C:\D\ExerciseDemo\AngOE\AngOE\AngOE.Common\obj\Debug\AngOE.Common.csprojResolveAssemblyReference.cache

@@ -1,0 +1,3 @@
+PM> Enable-migrations //You don't need this as you have already done it
+PM> Add-migration    Give_it_a_name
+PM> Update-database

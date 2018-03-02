@@ -1,0 +1,4 @@
+C:\D\ExerciseDemo\AngOE\AngOE\AngOE.Entities\bin\Debug\AngOE.Entities.dll
+C:\D\ExerciseDemo\AngOE\AngOE\AngOE.Entities\bin\Debug\AngOE.Entities.pdb
+C:\D\ExerciseDemo\AngOE\AngOE\AngOE.Entities\obj\Debug\AngOE.Entities.dll
+C:\D\ExerciseDemo\AngOE\AngOE\AngOE.Entities\obj\Debug\AngOE.Entities.pdb

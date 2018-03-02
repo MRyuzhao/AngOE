@@ -1,0 +1,15 @@
+C:\D\ExerciseDemo\AngOE\AngOE\AngOE.Data\bin\Debug\AngOE.Data.dll.config
+C:\D\ExerciseDemo\AngOE\AngOE\AngOE.Data\bin\Debug\AngOE.Data.dll
+C:\D\ExerciseDemo\AngOE\AngOE\AngOE.Data\bin\Debug\AngOE.Data.pdb
+C:\D\ExerciseDemo\AngOE\AngOE\AngOE.Data\bin\Debug\AngOE.Entities.dll
+C:\D\ExerciseDemo\AngOE\AngOE\AngOE.Data\bin\Debug\EntityFramework.dll
+C:\D\ExerciseDemo\AngOE\AngOE\AngOE.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\D\ExerciseDemo\AngOE\AngOE\AngOE.Data\bin\Debug\AngOE.Entities.pdb
+C:\D\ExerciseDemo\AngOE\AngOE\AngOE.Data\bin\Debug\EntityFramework.xml
+C:\D\ExerciseDemo\AngOE\AngOE\AngOE.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\D\ExerciseDemo\AngOE\AngOE\AngOE.Data\obj\Debug\AngOE.Data.csprojResolveAssemblyReference.cache
+C:\D\ExerciseDemo\AngOE\AngOE\AngOE.Data\obj\Debug\AngOE.Data.Migrations.InitDatabase.resources
+C:\D\ExerciseDemo\AngOE\AngOE\AngOE.Data\obj\Debug\AngOE.Data.csproj.GenerateResource.Cache
+C:\D\ExerciseDemo\AngOE\AngOE\AngOE.Data\obj\Debug\AngOE.Data.dll
+C:\D\ExerciseDemo\AngOE\AngOE\AngOE.Data\obj\Debug\AngOE.Data.pdb
+C:\D\ExerciseDemo\AngOE\AngOE\AngOE.Data\obj\Debug\AngOE.Data.Migrations.InitDatabase1.resources
